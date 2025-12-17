@@ -1,3 +1,4 @@
+- Learned how nano saves files
 - Learned how git add works
 - Learned what a commit snapshot is
 - Learned how git push works
