@@ -25,4 +25,7 @@
 - Learned how git add works
 - Learned what a commit snapshot is
 - Learned how git push works
+- Learned how git add works
+- Learned what a commit snapshot is
+- Learned how git push works
 - Learned how git status works
