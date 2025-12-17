@@ -1,2 +1,3 @@
+- Learned how git push publishes commits
 - Practiced pushing to GitHub
 - Practiced cloning repositories
