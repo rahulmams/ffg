@@ -1,1 +1,2 @@
+- Practiced pushing to GitHub
 - Practiced cloning repositories
