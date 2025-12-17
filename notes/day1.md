@@ -1,0 +1,1 @@
+- Learned how git status works
